@@ -8,7 +8,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 2h | 1 |
+| Week 1 | Tier 1 | 3h | 1 |
 
 ## Contents
 
@@ -18,9 +18,14 @@
 
 ### 2026-10-05 — I used ai models like google flow and macropod models online to make a cool little animatino for my reel, i aslo reasearched into what i want my macropad to look like and even used a tts model to make
 
-**2h**
+**3h**
 
 I used ai models like google flow and macropod models online to make a cool little animatino for my reel, i aslo reasearched into what i want my macropad to look like and even used a tts model to make a segment for my reel
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/gtxJlpFEuaLJa9sybASrEix3KPwJWdvO/51d9c5f7cf985796f2e120afa8e4ef9b85254fb662d1977d71ef5c2db073140c.png)
 ![images](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/gtxJlpFEuaLJa9sybASrEix3KPwJWdvO/d0928d3c774884cce44db9e99ef1a8ce0d3020b7e4bd03fee15e94361bd70d3e.jpg)
+
+Day 2:
+Spent one hour trying to figure out how to model a PCB, didnt work and am even more confused, all i know is that you have to use KiCad, probably will ask someone on slack for help later today
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/gtxJlpFEuaLJa9sybASrEix3KPwJWdvO/33e8f80dd4f4b0286f91613dbf82efa37dad0d4e98f2b0a6ac51eaf36c20cb79.png)
